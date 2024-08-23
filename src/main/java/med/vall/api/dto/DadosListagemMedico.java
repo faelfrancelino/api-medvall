@@ -1,7 +1,7 @@
 package med.vall.api.dto;
 
+import med.vall.api.domain.Medico;
 import med.vall.api.enuns.EspecialidadeEnum;
-import med.vall.api.model.Medico;
 
 public record DadosListagemMedico(Long id, String nome, String email, String crm, EspecialidadeEnum especialidade) {
 

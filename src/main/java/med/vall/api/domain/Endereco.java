@@ -1,4 +1,4 @@
-package med.vall.api.model;
+package med.vall.api.domain;
 
 import jakarta.persistence.Embeddable;
 import med.vall.api.dto.DadosEndereco;

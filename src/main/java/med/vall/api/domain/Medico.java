@@ -1,4 +1,4 @@
-package med.vall.api.model;
+package med.vall.api.domain;
 
 import java.util.Objects;
 
